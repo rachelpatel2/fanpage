@@ -10,14 +10,14 @@ body {
     border: 1px solid black;
     position: fixed;
     left: 30px;
-    bottom: 295px;
+    bottom: 335px;
 }
 .inner {
     width: 200px;
     height: 70px;
     position: fixed;
     right: 1000px;
-    bottom: 300px;
+    bottom: 340px;
     margin: 50px 50px 0 50px;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
@@ -35,14 +35,14 @@ h4 {
     border: 1px solid black;
     position: fixed;
     left: 30px;
-    bottom: 214px;
+    bottom: 254px;
 }
 .inner2 {
     width: 200px;
     height: 50px;
     position: fixed;
     right: 1000px;
-    bottom: 220px;
+    bottom: 260px;
     margin: 50px 50px 0 50px;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
@@ -68,7 +68,7 @@ a:hover
     background-color: #efede0;
     position: fixed;
     left: 30px;
-    bottom: 150px;
+    bottom: 190px;
     font-family: 'Catamaran', sans-serif;
     color: black;
     font-size: 12px;
