@@ -95,10 +95,61 @@ a:hover
     border: 1px solid black;
 }
 
-img {
+.img1 {
     max-width: 300px;
     
 }
+
+.outer5 {
+    width: 300px;
+    height: 199px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    right: 330px;
+    bottom: 290px;
+}
+.inner5 {
+    width: 300px;
+    height: 169px;
+    position: fixed;
+    right: 287px;
+    bottom: 327px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img2 {
+    max-width: 300px;
+}
+
+.outer6 {
+    width: 300px;
+    height: 199px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    right: 330px;
+    bottom: 49px;
+}
+.inner6 {
+    width: 300px;
+    height: 199px;
+    position: fixed;
+    right: 287px;
+    bottom: 57px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img3 {
+    max-width: 300px;
+}
+
 button {
     position: fixed;
     left: 80px;
