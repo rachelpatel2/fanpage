@@ -3,19 +3,28 @@ body {
 }
 
 .outer {
-    width: 300px;
-    height: 300px;
-    margin: 50px auto;
+    width: 200px;
+    height: 70px;
+    margin: 2px;
     background-color: #efede0;
     border: 1px solid black;
+    position: fixed;
+    left: 30px;
+    bottom: 295px;
 }
 .inner {
-    width: auto;
-    height: 200px;
+    width: 200px;
+    height: 70px;
+    position: fixed;
+    right: 1000px;
+    bottom: 300px;
     margin: 50px 50px 0 50px;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
 }
 h4 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
 }
+
+
