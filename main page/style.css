@@ -91,15 +91,17 @@ a:hover
      color: black;
  }
   .modal-content {
-    background-color: #fefefe;
+    background-color: #f0f3ea;
     margin: 15% auto; 
     padding: 20px;
     border: 1px solid #888;
     width: 80%; 
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
   }
   
   .close {
-    color: #aaa;
+    color:  #b4bba8;
     float: right;
     font-size: 28px;
     font-weight: bold;
