@@ -27,4 +27,37 @@ h4 {
     font-size: 17px;
 }
 
+.outer2 {
+    width: 200px;
+    height: 70px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    left: 30px;
+    bottom: 195px;
+}
+.inner2 {
+    width: 200px;
+    height: 70px;
+    position: fixed;
+    right: 1000px;
+    bottom: 200px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+a {
+    font-family: 'Catamaran', sans-serif;
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:hover
+{
+    font-style: normal;
+    color: grey;
+}
 
