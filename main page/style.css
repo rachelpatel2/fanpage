@@ -29,20 +29,20 @@ h4 {
 
 .outer2 {
     width: 200px;
-    height: 70px;
+    height: 50px;
     margin: 2px;
     background-color: #efede0;
     border: 1px solid black;
     position: fixed;
     left: 30px;
-    bottom: 195px;
+    bottom: 214px;
 }
 .inner2 {
     width: 200px;
-    height: 70px;
+    height: 50px;
     position: fixed;
     right: 1000px;
-    bottom: 200px;
+    bottom: 220px;
     margin: 50px 50px 0 50px;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
