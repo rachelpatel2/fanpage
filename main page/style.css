@@ -74,6 +74,16 @@ a:hover
     font-size: 12px;
 }
 
+button {
+    position: fixed;
+    left: 80px;
+    bottom: 80px;
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -87,13 +97,12 @@ a:hover
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
   }
   
- .myBtn{
-     color: black;
+
  }
   .modal-content {
     background-color: #f0f3ea;
     margin: 15% auto; 
-    padding: 20px;
+    padding: 30px;
     border: 1px solid #888;
     width: 80%; 
     text-align: center;
