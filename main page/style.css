@@ -102,13 +102,13 @@ a:hover
 
 .outer5 {
     width: 300px;
-    height: 199px;
+    height: 171px;
     margin: 2px;
     background-color: #efede0;
     border: 1px solid black;
     position: fixed;
     right: 330px;
-    bottom: 290px;
+    bottom: 320px;
 }
 .inner5 {
     width: 300px;
@@ -127,20 +127,20 @@ a:hover
 
 .outer6 {
     width: 300px;
-    height: 199px;
+    height: 139px;
     margin: 2px;
     background-color: #efede0;
     border: 1px solid black;
     position: fixed;
     right: 330px;
-    bottom: 49px;
+    bottom: 149px;
 }
 .inner6 {
     width: 300px;
-    height: 199px;
+    height: 139px;
     position: fixed;
     right: 287px;
-    bottom: 57px;
+    bottom: 157px;
     margin: 50px 50px 0 50px;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
@@ -148,6 +148,31 @@ a:hover
 
 .img3 {
     max-width: 300px;
+}
+
+.outer7 {
+    width: 300px;
+    height: 149px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    right: 698px;
+    bottom: 121px;
+}
+.inner7 {
+    width: 300px;
+    height: 151px;
+    position: fixed;
+    right: 655px;
+    bottom: 129px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img4 {
+max-width: 300px;
 }
 
 button {
@@ -160,6 +185,7 @@ button {
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
 }
+
 .modal {
     display: none; 
     position: fixed; 
