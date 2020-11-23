@@ -61,3 +61,15 @@ a:hover
     color: grey;
 }
 
+.outer3 {
+    width: 200px;
+    height: 50px;
+    margin: 2px;
+    background-color: #efede0;
+    position: fixed;
+    left: 30px;
+    bottom: 150px;
+    font-family: 'Catamaran', sans-serif;
+    color: black;
+    font-size: 12px;
+}
