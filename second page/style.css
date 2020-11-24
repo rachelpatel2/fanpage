@@ -1,3 +1,27 @@
 body {
     background-color: #efede0;
 }
+.outer {
+    width: 250px;
+    height: 313px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    right: 995px;
+    bottom: 235px;
+}
+.inner {
+    width: 250px;
+    height: 313px;
+    position: fixed;
+    right: 950px;
+    bottom: 240px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img {
+    max-width: 300px;
+}
