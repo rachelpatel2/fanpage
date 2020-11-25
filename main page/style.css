@@ -200,6 +200,31 @@ max-width: 300px;
     max-width: 300px;
 }
 
+.outer9 {
+    width: 300px;
+    height: 143px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    right: 2px;
+    bottom: 350px;
+}
+.inner9 {
+    width: 300px;
+    height: 143px;
+    position: fixed;
+    right: -40px;
+    bottom: 357px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img6 {
+    max-width: 300px;
+}
+
 .btnimg {
     max-width: 400px;
   }
