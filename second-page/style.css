@@ -161,14 +161,30 @@ p {
         max-width: 100px;
         position: fixed;
         left: 900px;
-        bottom: 40px;
+        bottom: 80px;
         animation: slide 5s infinite;
         animation-direction: linear infinite alternate;
       }
 
       @keyframes slide {
         0% { left: 5px;}
-        50% { left: 40%;}
+        50% { left: 15%;}
+        100% { left: 5px;}
+     
+    }
+
+    .cloud4 {
+        max-width: 100px;
+        position: fixed;
+        left: 900px;
+        bottom: 160px;
+        animation: fourth 5s infinite;
+        animation-direction: linear infinite alternate;
+      }
+
+      @keyframes fourth {
+        0% { left: 5px;}
+        50% { left: 20%;}
         100% { left: 5px;}
      
     }
