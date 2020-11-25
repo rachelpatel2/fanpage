@@ -129,7 +129,7 @@ p {
 .cloud {
     max-width: 100px;
     position: fixed;
-    left: 900px;
+    left: 990px;
     top: 50px;
     animation: myFirst 5s infinite;
     animation-direction: linear infinite alternate;
@@ -137,7 +137,22 @@ p {
   
   @keyframes myFirst {
     0% { left: 900px;}
-      50%{ left : 92%;}
-      100%{ left:900px;}
+    50% { left: 92%;}
+    100% { left: 900px;}
    
   }
+  .cloud2 {
+      max-width: 100px;
+      position: fixed;
+      left: 900px;
+      top: 130px;
+      animation: myFirst 5s infinite;
+      animation-direction: linear infinite alternate;
+    }
+    
+    @keyframes myFirst {
+        0% { left: 900px;}
+        50% { left: 92%;}
+        100% { left: 900px;}
+     
+    }
