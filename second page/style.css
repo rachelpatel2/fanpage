@@ -100,3 +100,28 @@ a:hover
 p {
 	font-size: 12px;
 }
+
+.outer5 {
+    width: 300px;
+    height: 300px;
+    margin: 2px;
+    background-color: #efede0;
+    border: 1px solid black;
+    position: fixed;
+    right: 35px;
+    bottom: 34px;
+}
+.inner5 {
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    right: -10px;
+    bottom: 40px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img2 {
+	max-width: 300px;
+}
